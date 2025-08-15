@@ -12,3 +12,7 @@ It lets you add, subtract, multiply, or divide two whole numbers.
 5. See the result.
 
 ## Example
+Enter first number: 8
+Enter second number: 2
+Enter +, -, *, or /: *
+16
