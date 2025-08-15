@@ -1,4 +1,4 @@
-# basic-calculato
+# basic-calculator
 # Super Simple Calculator
 
 A very basic calculator program in Python for beginners.  
